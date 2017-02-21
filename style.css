@@ -1,0 +1,24 @@
+#app{
+    font-family: sans-serif;
+}
+.container{
+    display: flex;
+}
+.half{
+    width: 48%;
+    height: 85vh;
+    margin: auto;
+}
+textarea{
+    border: none;
+    font-family: sans-serif;
+    height: 100%;
+    overflow: auto;
+    resize: none;
+    width: 95%;
+}
+.title{
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: 900;
+}
